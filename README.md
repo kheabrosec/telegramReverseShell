@@ -6,4 +6,4 @@ Change your Telegram bot ID
 
 Installing python-telegram-bot
 
-pip3 install python-telegram-bot
+`pip3 install python-telegram-bot`
