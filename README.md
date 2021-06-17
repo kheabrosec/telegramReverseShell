@@ -7,3 +7,6 @@ Multi platform reverse shell via Telegram coded with Python
 Installing python-telegram-bot
 
 `pip3 install python-telegram-bot`
+
+
+Use `/osinfo` to obtain the host operating system information and send messages to execute commands on the remote host.
