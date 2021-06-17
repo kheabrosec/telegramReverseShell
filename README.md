@@ -1,8 +1,8 @@
 # telegramReverseShell
 Multi platform reverse shell via Telegram coded with Python
 
-Change your Telegram bot Token
-Change your Telegram bot ID
++ Change your Telegram bot Token
++ Change your Telegram bot ID
 
 Installing python-telegram-bot
 
